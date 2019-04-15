@@ -1,4 +1,4 @@
-# Segurança ( Network Security ) Final Project
+# Network Security Final Project
 
 The objective of this project is to develop a system enabling users to create
 and participate in auctions. The system is composed by an auction manager,
